@@ -45,9 +45,9 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	var DivFiller = __webpack_require__(1);
-	DivFiller('div1');
+	//DivFiller('div1');
 	var StrictDivFiller = __webpack_require__(2);
-	StrictDivFiller('div2');
+	//StrictDivFiller('div2');
 
 
 /***/ },
